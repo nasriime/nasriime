@@ -1,4 +1,5 @@
 <h3 align="center">
+  ![Mohamed](https://github.com/nasriime/nasriime/blob/55750e14786a26f5ffea0148687eb0a2f3694542/coding.gif)
   Hello there! I'm Mo
 </h3>
 <p align="center">
