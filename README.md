@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello there! I'm Mohamed
+  Hello there! I'm Mo
 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Electronics%20Engineer;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
