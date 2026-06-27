@@ -3,7 +3,7 @@
   Hello there! I'm Mo
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Electronics%20Engineer;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Problem%20Solver;Always%20learning%20.%20.%20.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
@@ -16,5 +16,5 @@
   Languages and Tools
 </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,nodejs,go,angular,jest,postgres,git,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,nodejs,python,angular,jest,postgres,git,aws&perline=8" />
 </p>
